@@ -1,7 +1,13 @@
 body{
 	position: relative;
 	margin: 0;
+	background: black; 
+	
 }
 #c{ 
   position: absolute; 
+}
+p { 
+display: inline-block;
+color:white;
 }
