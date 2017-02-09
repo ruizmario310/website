@@ -8,6 +8,7 @@ body{
   position: absolute; 
 }
 p { 
-display: inline-block;
+text-decoration: underline; 
+font-size: 24px 
 color:white;
 }
